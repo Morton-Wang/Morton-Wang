@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Morton-Wang
-- 👀 I’m a java developer with almost 3 years work experience.it's my pleasure to meet you in here
+- 👀 I’m a java developer at Chengdu with almost 3 years work experience.it's my pleasure to meet you in here
 - 🌱 I’m currently learning spring cloud alibaba and some knowledge about design patterns
 - 💞️ I’m looking to collaborate on some senior development positions about E-commerce or sys like crm and erp etc
 - 📫 How to reach me : wqm1994@126.com , i will reply to you as soon as possible 
