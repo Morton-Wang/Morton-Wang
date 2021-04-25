@@ -2,7 +2,7 @@
 - 👀 I’m a java developer with almost 3 years work experience.it's my pleasure to meet you in here
 - 🌱 I’m currently learning spring cloud alibaba and song knowledge with design patterns
 - 💞️ I’m looking to collaborate on some senior development positions
-- 📫 How to reach me : wqm1994@126.com , i will reply as soon as possible 
+- 📫 How to reach me : wqm1994@126.com , i will reply to you as soon as possible 
 
 thanks for your attention
 
